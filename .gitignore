@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Whisper models (download automatically, don't commit)
+.cache/
+.whisper/
+
+# Output files
+*.wav
+*.mp4
+*.srt
+*.mp3
+
+# IDE
+.vscode/
+.idea/

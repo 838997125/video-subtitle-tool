@@ -1,0 +1,7 @@
+# Video Subtitle Tool - Python Dependencies
+# Install with: pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+openai-whisper
+torch
+numpy
+tqdm
